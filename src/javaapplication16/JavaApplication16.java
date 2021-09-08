@@ -17,7 +17,8 @@ public class JavaApplication16 {
     public static void main(String[] args) {
         System.out.println("Начало разработки");
         System.out.println("Первое изменение кода");
+        System.out.println("Второе изменение кода");
     }
-    }
+    
     
 }
